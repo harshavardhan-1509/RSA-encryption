@@ -14,3 +14,7 @@ An example of asymmetric cryptography :
 2. ./a.out <br>
 * Follow the interactive instruction given on the terminal to proceed further and get the result.
 copy the encrypted message from the terminal
+1. g++ reciever.cpp
+2. ./a.out
+3. give encrypted message as the input in the files.
+you will get the decrypted answer on the command line
